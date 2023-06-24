@@ -4,8 +4,6 @@ export interface IMenuItemModel {
     id:number;
     name: string;
     path: string;
-    component: React.FC;
-    subMenu?: IMenuItemModel[];
 }
 
 let menuItems: IMenuItemModel[] = [
@@ -13,13 +11,11 @@ let menuItems: IMenuItemModel[] = [
         id:1,
         name: 'Menu Item 1',
         path: '/',
-        component: testpage
     },
     {
         id:2,
         name: 'Menu Item 2',
         path: '/',
-        component: testpage
     },
     {
         id:3,
@@ -31,19 +27,16 @@ let menuItems: IMenuItemModel[] = [
         id:4,
         name: 'Menu Item 4',
         path: '/',
-        component: testpage
     },
     {
         id:5,
         name: 'Menu Item 5',
         path: '/',
-        component: testpage
     },
     {
         id:6,
         name: 'Menu Item 6',
         path: '/',
-        component: testpage
     },
     {
         id:7,
@@ -67,13 +60,11 @@ let menuItems: IMenuItemModel[] = [
         id:10,
         name: 'Menu Item 10',
         path: '/',
-        component: testpage
     },
     {
         id:11,
         name: 'Menu Item 11',
         path: '/',
-        component: testpage
     }
 ];
 
