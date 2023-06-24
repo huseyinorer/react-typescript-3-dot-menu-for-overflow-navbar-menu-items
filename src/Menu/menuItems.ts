@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import testpage from "../testpage";
 
 export interface IMenuItemModel {
     id:number;
