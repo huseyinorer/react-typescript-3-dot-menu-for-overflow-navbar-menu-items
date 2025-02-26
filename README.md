@@ -76,6 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+Project Link: [https://github.com/huseyinorer/react-typescript-3-dot-menu-for-overflow-navbar-menu-items](https://github.com/huseyinorer/react-typescript-3-dot-menu-for-overflow-navbar-menu-items)
