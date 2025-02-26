@@ -21,7 +21,6 @@ let menuItems: IMenuItemModel[] = [
         id:3,
         name: 'Menu Item 3',
         path: '/',
-        component: testpage
     },
     {
         id:4,
@@ -42,19 +41,16 @@ let menuItems: IMenuItemModel[] = [
         id:7,
         name: 'Menu Item 7',
         path: '/',
-        component: testpage
     },
     {
         id:8,
         name: 'Menu Item 8',
         path: '/',
-        component: testpage
     },
     {
         id:9,
         name: 'Menu Item 9',
         path: '/',
-        component: testpage
     },
     {
         id:10,
